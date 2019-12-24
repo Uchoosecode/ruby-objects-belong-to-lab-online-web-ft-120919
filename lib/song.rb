@@ -4,8 +4,8 @@ class Song
   
   attr_accessor :title 
   
-  def initialize(title)
-    title = "7/11"
+  def initialize(title = "7/11")
+    title
     @title = title
   end
   
