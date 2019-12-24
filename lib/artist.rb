@@ -9,3 +9,5 @@ class Artist
   end
   
 end
+
+Artist.new = "Beyonce"
