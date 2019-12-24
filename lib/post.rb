@@ -10,4 +10,4 @@ class Post
   
 end
 
-post.title("Hello World") 
+post.title("Hello World") = "Hello World" 
