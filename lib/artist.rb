@@ -10,4 +10,4 @@ class Artist
   
 end
 
-Artist.new = "Beyonce"
+Artist.new("Beyonce")
