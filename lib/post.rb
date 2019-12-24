@@ -9,3 +9,5 @@ class Post
   end
   
 end
+
+post.title = "Hello World" 
